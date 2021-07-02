@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765cb6b6a331f7f4f8f9e76fec90c158, type: 3}
+  m_Name: Copper Chainmail
+  m_EditorClassIdentifier: 
+  id: 1fa47dd955f5aeb4e9effe45cccfc4eb
+  itemName: Copper Chainmail
+  maxStack: 1
+  itemIcon: {fileID: 21300000, guid: 50e6d96147903bb4b9eceb2449899274, type: 3}
+  value: 28
+  strengthBonus: 0
+  intelligenceBonus: 0
+  vitalityBonus: 0
+  armorBonus: 3
+  strengthPercentBonus: 0
+  intelligencePercentBonus: 0
+  vitalityPercentBonus: 0
+  armorPercentBonus: 0
+  equipmentType: 1

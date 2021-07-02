@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765cb6b6a331f7f4f8f9e76fec90c158, type: 3}
+  m_Name: Bronze Chainmail
+  m_EditorClassIdentifier: 
+  id: 607d6eb5ec9105f41a4493ffc932b4a3
+  itemName: Bronze Chainmail
+  maxStack: 1
+  itemIcon: {fileID: 21300000, guid: e8ed1d5a221f4a74aaac4f391e288d16, type: 3}
+  value: 75
+  strengthBonus: 0
+  intelligenceBonus: 0
+  vitalityBonus: 0
+  armorBonus: 5
+  strengthPercentBonus: 0
+  intelligencePercentBonus: 0
+  vitalityPercentBonus: 0
+  armorPercentBonus: 0
+  equipmentType: 1

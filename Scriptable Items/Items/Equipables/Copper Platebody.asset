@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765cb6b6a331f7f4f8f9e76fec90c158, type: 3}
+  m_Name: Copper Platebody
+  m_EditorClassIdentifier: 
+  id: 0c0cf4787b76a4d4f8cda6782a9a02df
+  itemName: Copper Platebody
+  maxStack: 1
+  itemIcon: {fileID: 21300000, guid: 4fb16ecfb59da264f9bb0b81a2323cbd, type: 3}
+  value: 0
+  strengthBonus: 0
+  intelligenceBonus: 0
+  vitalityBonus: 0
+  armorBonus: 0
+  strengthPercentBonus: 0
+  intelligencePercentBonus: 0
+  vitalityPercentBonus: 0
+  armorPercentBonus: 0
+  equipmentType: 1

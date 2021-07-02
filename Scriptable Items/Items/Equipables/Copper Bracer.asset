@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765cb6b6a331f7f4f8f9e76fec90c158, type: 3}
+  m_Name: Copper Bracer
+  m_EditorClassIdentifier: 
+  id: 42cdc07077e832a4cb8d2c22a2647f36
+  itemName: Copper Bracer
+  maxStack: 1
+  itemIcon: {fileID: 21300000, guid: 18c789219f3cf754395225c0b8b94bf3, type: 3}
+  value: 4
+  strengthBonus: 0
+  intelligenceBonus: 0
+  vitalityBonus: 0
+  armorBonus: 0
+  strengthPercentBonus: 0
+  intelligencePercentBonus: 0
+  vitalityPercentBonus: 0
+  armorPercentBonus: 0
+  equipmentType: 7
